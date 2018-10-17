@@ -17,8 +17,8 @@
 package lib
 
 import (
-	"analytics-executor/operator-api"
-	"analytics-executor/parsing-api"
+	"analytics-flow-engine/operator-api"
+	"analytics-flow-engine/parsing-api"
 )
 
 type Driver interface {

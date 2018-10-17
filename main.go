@@ -17,7 +17,7 @@
 package main
 
 import (
-	"analytics-executor/api"
+	"analytics-flow-engine/api"
 	"github.com/joho/godotenv"
 	"log"
 )

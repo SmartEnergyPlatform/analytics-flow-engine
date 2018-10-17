@@ -20,8 +20,8 @@ import (
 	"net/http"
 	"encoding/json"
 	"github.com/gorilla/mux"
-	"analytics-executor/executor"
-	"analytics-executor/lib"
+	"analytics-flow-engine/executor"
+	"analytics-flow-engine/lib"
 	"fmt"
 )
 

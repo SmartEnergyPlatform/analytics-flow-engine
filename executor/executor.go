@@ -17,7 +17,7 @@
 package executor
 
 import (
-	"analytics-executor/lib"
+	"analytics-flow-engine/lib"
 	"fmt"
 	"strconv"
 )

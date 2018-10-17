@@ -17,15 +17,15 @@
 package api
 
 import (
-	"analytics-executor/lib"
+	"analytics-flow-engine/lib"
 	"fmt"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
-	"analytics-executor/rancher-api"
-	"analytics-executor/operator-api"
+	"analytics-flow-engine/rancher-api"
+	"analytics-flow-engine/operator-api"
 	"github.com/rs/cors"
-	"analytics-executor/parsing-api"
+	"analytics-flow-engine/parsing-api"
 )
 
 func CreateServer(){

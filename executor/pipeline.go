@@ -18,7 +18,7 @@ package executor
 
 import (
 	"github.com/parnurzeal/gorequest"
-	"analytics-executor/lib"
+	"analytics-flow-engine/lib"
 	"fmt"
 	"github.com/satori/go.uuid"
 	"github.com/pkg/errors"

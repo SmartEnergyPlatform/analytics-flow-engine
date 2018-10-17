@@ -17,8 +17,8 @@
 package rancher_api
 
 import (
-	"analytics-executor/lib"
-	"analytics-executor/operator-api"
+	"analytics-flow-engine/lib"
+	"analytics-flow-engine/operator-api"
 	"encoding/json"
 	"fmt"
 	"net/http"
